@@ -1,6 +1,8 @@
-### HELLO👋
+### Hello👋
 
-my name is Azel
+my name is Azel, you can call me zel
+
+### YouTube Chanel[![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG64Lu7JYZO8q-4SQ8CTEjQ)
 
 <!--
 **AzelCH/AzelCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
