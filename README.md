@@ -5,6 +5,8 @@ my name is Azel, you can call me zel
 ### Subscribe Me
 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCBnffQwWcKFgOK5rPX3u9-A)
+
+### Github Stats
 <!--
 **AzelCH/AzelCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
